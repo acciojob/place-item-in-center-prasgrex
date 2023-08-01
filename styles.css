@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+.pras{
+	background-color:skyblue;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
