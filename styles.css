@@ -5,3 +5,10 @@
 	align-items:center;
 	flex-wrap: wrap;
 }
+.holder{
+	background-color:skyblue;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap: wrap;
+}
